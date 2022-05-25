@@ -1,2 +1,2 @@
 # CodeWars
-Just a few Code Challenges I did last few days to get ready for the Code Challenge that I did for SmoothStack
+- Just a list of problems that I been solving from time to time in Codewars.
