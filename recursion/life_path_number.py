@@ -16,7 +16,6 @@ result:  7 + 3 + 5 = 15  -->  1 + 5 = 6
 Einstein's Life Path Number is therefore: 6
 '''
 
-
 def life_path_number(birthdate):
     sum_of_digits = lambda n: 0 if n == 0 else int(n % 10) + sum_of_digits(int(n / 10))
     if len(birthdate) == 0:
